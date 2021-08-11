@@ -36,6 +36,12 @@
         "description": "Size of the VM"
       }
     },
+    "joinDomain": {
+      "type": "string",
+      "metadata": {
+        "description": "name of the domain will be joined"
+      }
+    },
     "existingVirtualNetworkName": {
       "type": "string",
       "metadata": {
